@@ -39,6 +39,14 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "name": "Vegetarian ",
+      "restaurant": "Bon Appetit",
+      "image": "https://assets.bonappetit.com/photos/5e3c7a3c866b940008106763/6:9/w_2320,h_3480,c_limit/HLY-Veggie-Ramen-16x9.jpg",
+      "rating": "10",
+      "comment": "Wow!",
+      "id": 6
     }
   ]
 }
